@@ -1,0 +1,30 @@
+Sortieralgorithmen
+
+A)
+1. Erstelle die Klasse "SortieralgorithmenMain" mit einer main-Methode
+2. Diese Klasse soll folgende Methoden enthalten:
+	- int[] zahlenErstellen(int laenge): diese Methode soll ein Array der Länge "laenge" mit zufälligen Zahlen zwischen 1 und 10 zurückgeben
+	- void zahlenAusgeben(int[] zahlen): diese Methode soll alle Zahlen eines Arrays ausgeben
+3. Rufe nun die Methode "zahlenErstellen" in der main-Methode auf und speichere den Wert in eine Variable namens "zahlen"
+4. Danache verwende die Methode "zahlenAusgeben", um das vorhin erstellte Array auszugeben
+
+B)
+1. Erstelle die Klasse "Bubblesort" mit folgender Methode:
+	- int[] bubblesort(int[] zahlen): diese Methode soll mit Hilfe des Bubblesort-Algorithmus das Array "zahlen" sortieren und zurückgeben
+2. Erstelle in der Klasse "SortieralgorithmenMain" in der main-Methode ein neues Objekt von der Klasse "Bubblesort"
+3. Rufe die Methode "bubblesort" auf (als Parameter verwende das Array, welches im Schritt A3 erzeugt wurde) und speichere den Rückgabewert
+4. Gib nun das sortierte Array mit Hilfe der Methode "zahlenAusgeben" aus
+
+C)
+1. Erstelle die Klasse "Selectionsort" mit folgender Methode:
+	- int[] selectionsort(int[] zahlen): diese Methode soll mit Hilfe des "Selectionsort" Algorithmus das Array "zahlen" sortieren und zurückgeben
+2. Erstelle in der Klasse "SortieralgorithmenMain" in der main-Methode ein neues Objekt von der Klasse "Selectionsort"
+3. Rufe die Methode "selectionsort" auf (als Parameter verwende das Array, welches im Schritt A3 erzeugt wurde) und speichere den Rückgabewert
+4. Gib nun das sortierte Array mit Hilfe der Methode "zahlenAusgeben" aus
+
+D)
+1. Erstelle die Klasse "Insertionsort" mit folgender Methode:
+	- int[] insertionsort(int[] zahlen): diese Methode soll mit Hilfe des Insertionsort-Algorithmus das Array "zahlen" sortieren und zurückgeben
+2. Erstelle in der Klasse "SortieralgorithmenMain" in der main-Methode ein neues Objekt von der Klasse "Insertionsort"
+3. Rufe die Methode "Insertionsort" auf (als Parameter verwende das Array, welches im Schritt A3 erzeugt wurde) und speichere den Rückgabewert
+4. Gib nun das sortierte Array mit Hilfe der Methode "zahlenAusgeben" aus

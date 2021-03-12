@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ParkplatzMain
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ ParkplatzMain.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Fahrzeug[]\ fahrzeugeErzeugen()
+comment3.params=fahrzeuge
+comment3.target=void\ fahrzeugeAusgeben(Fahrzeug[])
+numComments=4

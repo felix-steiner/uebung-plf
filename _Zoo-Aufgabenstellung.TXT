@@ -1,0 +1,7 @@
+Zoo
+
+1. Erstelle die Klasse "ZooMain", welche eine main-Methode enthalten soll.
+2. Erstelle die Klasse "Tiere", welche die Felder "name", "tierart" und "gewicht" haben soll.
+3. Die Klasse "ZooMain" soll zwei Methoden enthalten:
+	- Tier[] tiereErzeugen(): diese Methode soll ein Tier-Array der Größe 3 zurückgeben
+	- void tiereAusgeben(Tier[] tierArray): diese Methode soll das Tier-Array, welches als Parameter mitgegeben wird, ausgeben (Format: "<tierart>: <name>, <gewicht>")

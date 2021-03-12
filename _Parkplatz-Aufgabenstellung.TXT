@@ -1,0 +1,7 @@
+Parkplatz
+
+1. Erstelle die Klasse "ParkplatzMain", welche eine main-Methode enthalten soll.
+2. Erstelle die Klasse "Fahrzeug", welche die Felder "marke", "farbe" und "ps" haben soll.
+3. Die Klasse "ParkplatzMain" soll zwei Methoden enthalten:
+	- Fahrzeug[] fahrzeugeErzeugen(): diese Methode soll ein Fahrzeug-Array der Größe 10 zurückgeben, wobei nur 3 Elemente mit Fahrzeugen befüllt werden sollen
+	- void fahrzeugeAusgeben(Fahrzeug[] fahrzeug): diese Methode soll das Fahrzeug-Array, welches als Parameter mitgegeben wird, ausgeben (Format: "<index>: <marke> mit der Farbe <farbe> mit <ps> PS")
